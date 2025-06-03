@@ -78,5 +78,4 @@ if frame_count > 90:
 📛 Proyecto desarrollado por **365dronechange**
 
 📷 Instagram: [@365dronechange](https://instagram.com/365dronechange)  
-🔗 GitHub: [github.com/tu_usuario](https://github.com/tu_usuario)
 ```
